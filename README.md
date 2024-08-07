@@ -21,12 +21,4 @@ nhấn Read More để xem hết bài viết
 ![image](https://github.com/HuyGlaucus/www_week6/assets/116423850/04731415-67c7-4873-b2a9-d5ced8af4f5a)
 nhấn Logout để đăng xuất
 ![image](https://github.com/HuyGlaucus/www_week6/assets/116423850/37293b05-26c4-492f-8c7d-f87e22f48be9)
-
-
-
-
-
-
-
-
-# www_week8 https://github.com/HuyGlaucus/www_week8/tree/master
+https://github.com/HuyGlaucus/www_week7/tree/update
